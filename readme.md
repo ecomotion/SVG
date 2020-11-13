@@ -1,1 +1,1 @@
-Ressources SVG for fritzing and other
+Ressources SVG for fritzing and others
